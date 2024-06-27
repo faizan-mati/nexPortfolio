@@ -32,7 +32,7 @@ export default function HomeCom() {
         <div className="col-lg-6 d-flex flex-column justify-content-center order-lg-1 order-2">
           <div className='homeMain'>
             <h1 className="homeHeading">Hi! I'm Faizan Mati</h1>
-            <h1 className="homeHeading">Full/MERN Stack Developer</h1>
+            <h1 className="homeHeading">"{Full/MERN Stack Developer"}</h1>
             <h5 className="homePara">{"Passionate beginner in full stack and MERN development, focused on crafting responsive web applications."}</h5>
             <br />
             <div className="homeBtn">
