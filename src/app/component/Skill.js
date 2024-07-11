@@ -184,7 +184,7 @@ export default function Skill() {
     <div className="skillMain">
       <div className="container">
         <div className="row">
-          <div className="col-lg-12">
+          <div className="col-lg-12 col-sm-6">
             <div className="d-flex flex-column justify-content-center align-items-center">
               <h1 className="educationHeadingMain">Skills</h1>
             </div>
