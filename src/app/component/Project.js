@@ -4,7 +4,7 @@ import Image from "next/image";
 import mongo from '../image/mongo.png';
 import ims from '../image/ims.png';
 import hunartech from '../image/hunartech.png';
-import olx from '../image/olx1.png';
+import olx from '../image/olx2.png';
 import weather from '../image/weather.png';
 import quiz from '../image/quiz.png';
 import lms from '../image/lms.png';
