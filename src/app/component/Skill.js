@@ -186,7 +186,7 @@ export default function Skill() {
         <div className="row">
           <div className="col-lg-12 col-sm-6">
             <div className="d-flex flex-column justify-content-center align-items-center">
-              <h1 className="educationHeadingMain">Skills</h1>
+              <h1 className="educationHeadingMain">Skil</h1>
             </div>
             <div className="skilltimeline">
               {/* Row 1 */}
