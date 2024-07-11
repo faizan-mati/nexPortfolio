@@ -34,7 +34,7 @@ export default function Project() {
       image: olx,
       title: "OLX CLONE",
       description: "Developed an e-commerce website using React and Firebase, featuring user authentication, profile management, product posting, and CRUD operations for users to manage their listings.",
-      url: "https://nex-portfolio-khaki.vercel.app/"
+      url: "https://olx-blue.vercel.app/"
     },
     {
       id: 4,
@@ -50,34 +50,35 @@ export default function Project() {
       description: "Developed an interactive quiz application using React.js and an external quiz API. Users can take quizzes on various topics and receive real-time feedback on their performance.",
       url: "https://quiz-xi-three.vercel.app/"
     },
-    {
+      {
       id: 6,
-      image: lms,
-      title: "LEARNING MANAGEMENT SYSTEM",
-      description: "Developed a responsive static website with HTML, CSS, and Bootstrap, including a navigation bar, hero section, services, portfolio gallery, and contact form.",
-      url: "https://faizan-mati.github.io/LMS/index.html"
-    },
-    {
-      id: 7,
-      image: mining,
-      title: "MINING",
-      description: "Created a one-page static website using HTML, CSS, Bootstrap, and JavaScript. Features a clean, responsive design with interactive elements.",
-      url: "https://faizan-mati.github.io/mining/"
-    },
-    {
-      id: 8,
       image: ecommerece,
       title: "E-COMMERCE",
       description: "Developed an e-commerce site using HTML, CSS, JavaScript, and Bootstrap. Features include a responsive design, product listings, shopping cart, and checkout functionality.",
       url: "https://ahmed-web-solution.github.io/e-commerce/"
     },
-    {
-      id: 9,
-      image: food,
-      title: "FOOD WEBSITE",
-      description: "Developed a responsive food website with HTML, CSS, and Bootstrap. Includes sections for menu items, chef profiles, and contact information.",
-      url: "https://faizan-mati.github.io/Food-Website/"
+    // {
+    //   id: 7,
+    //   image: mining,
+    //   title: "MINING",
+    //   description: "Created a one-page static website using HTML, CSS, Bootstrap, and JavaScript. Features a clean, responsive design with interactive elements.",
+    //   url: "https://faizan-mati.github.io/mining/"
+    // },
+ 
+     {
+      id: 8,
+      image: lms,
+      title: "LEARNING MANAGEMENT SYSTEM",
+      description: "Developed a responsive static website with HTML, CSS, and Bootstrap, including a navigation bar, hero section, services, portfolio gallery, and contact form.",
+      url: "https://faizan-mati.github.io/LMS/index.html"
     },
+    // {
+    //   id: 9,
+    //   image: food,
+    //   title: "FOOD WEBSITE",
+    //   description: "Developed a responsive food website with HTML, CSS, and Bootstrap. Includes sections for menu items, chef profiles, and contact information.",
+    //   url: "https://faizan-mati.github.io/Food-Website/"
+    // },
    
   ];
 
