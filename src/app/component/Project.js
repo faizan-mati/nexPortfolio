@@ -34,7 +34,7 @@ export default function Project() {
       image: olx,
       title: "OLX CLONE",
       description: "Developed an e-commerce website using React and Firebase, featuring user authentication, profile management, product posting, and CRUD operations for users to manage their listings.",
-      url: "https://faizanolx.vercel.app/"
+      url: "https://nex-portfolio-khaki.vercel.app/"
     },
     {
       id: 4,
