@@ -61,7 +61,7 @@ export default function Project() {
       {
       id: 7,
       image: coffee,
-      title: "Coffe",
+      title: "Coffee",
       description: "Developed a responsive static website with HTML, CSS, and Bootstrap, including a navigation bar, hero section, services, gallery, and contact form.",
       url: "https://faizan-mati.github.io/Coffee/"
     },
