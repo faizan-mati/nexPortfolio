@@ -11,6 +11,7 @@ import lms from '../image/lms.png';
 import mining from '../image/mining.png';
 import food from '../image/food.png';
 import ecommerece from '../image/ecommerece.png';
+import coffee from '../image/coffee.png';
 
 export default function Project() {
   // Sample data for demonstration
@@ -59,7 +60,7 @@ export default function Project() {
     },
       {
       id: 7,
-      image: ecommerece,
+      image: coffee,
       title: "Coffee",
       description: "Developed a responsive static website with HTML, CSS, and Bootstrap, including a navigation bar, hero section, services, gallery, and contact form.",
       url: "https://faizan-mati.github.io/Coffee/"
