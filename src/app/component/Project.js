@@ -57,6 +57,13 @@ export default function Project() {
       description: "Developed an e-commerce site using HTML, CSS, JavaScript, and Bootstrap. Features include a responsive design, product listings, shopping cart, and checkout functionality.",
       url: "https://ahmed-web-solution.github.io/e-commerce/"
     },
+      {
+      id: 7,
+      image: ecommerece,
+      title: "Coffee",
+      description: "Developed a responsive static website with HTML, CSS, and Bootstrap, including a navigation bar, hero section, services, gallery, and contact form.",
+      url: "https://faizan-mati.github.io/Coffee/"
+    },
     // {
     //   id: 7,
     //   image: mining,
@@ -66,7 +73,7 @@ export default function Project() {
     // },
  
      {
-      id: 8,
+      id: 9,
       image: lms,
       title: "LEARNING MANAGEMENT SYSTEM",
       description: "Developed a responsive static website with HTML, CSS, and Bootstrap, including a navigation bar, hero section, services, portfolio gallery, and contact form.",
