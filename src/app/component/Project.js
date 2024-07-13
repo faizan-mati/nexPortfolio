@@ -11,7 +11,7 @@ import lms from '../image/lms.png';
 import mining from '../image/mining.png';
 import food from '../image/food.png';
 import ecommerece from '../image/ecommerece.png';
-import coffee from '../image/coffee.png';
+import coffee from '../image/coffee1.png';
 
 export default function Project() {
   // Sample data for demonstration
