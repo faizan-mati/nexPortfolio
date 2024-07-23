@@ -12,6 +12,7 @@ import mining from '../image/mining.png';
 import food from '../image/food.png';
 import ecommerece from '../image/ecommerece.png';
 import coffee from '../image/coffee2.png';
+import gradient from '../image/gradient.png';
 
 export default function Project() {
   // Sample data for demonstration
@@ -77,6 +78,13 @@ export default function Project() {
       id: 9,
       image: lms,
       title: "LEARNING MANAGEMENT SYSTEM",
+      description: "Developed a responsive static website with HTML, CSS, and Bootstrap, including a navigation bar, hero section, services, portfolio gallery, and contact form.",
+      url: "https://faizan-mati.github.io/LMS/index.html"
+    },
+     {
+      id: 10,
+      image: gradient,
+      title: "GRADIENT",
       description: "Developed a responsive static website with HTML, CSS, and Bootstrap, including a navigation bar, hero section, services, portfolio gallery, and contact form.",
       url: "https://faizan-mati.github.io/LMS/index.html"
     },
