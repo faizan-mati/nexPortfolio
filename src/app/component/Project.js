@@ -85,8 +85,8 @@ export default function Project() {
       id: 10,
       image: gradient,
       title: "GRADIENT",
-      description: "Developed a responsive static website with HTML, CSS, and Bootstrap, including a navigation bar, hero section, services, portfolio gallery, and contact form.",
-      url: "https://faizan-mati.github.io/LMS/index.html"
+      description: "Responsive site generating and displaying random gradients with HTML, CSS, and JavaScript.",
+      url: "https://faizan-mati.github.io/gradient/"
     },
     // {
     //   id: 9,
