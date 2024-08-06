@@ -31,36 +31,44 @@ export default function Project() {
       description: "Developed a professional agency website during my internship at Hunar Foundation using HTML, CSS, Bootstrap, and PHP.",
       url: "https://hunartech.ebrainware.com/"
     },
+    
     {
       id: 3,
-      image: olx,
-      title: "OLX CLONE",
-      description: "Developed an e-commerce website using React and Firebase, featuring user authentication, profile management, product posting, and CRUD operations for users to manage their listings.",
-      url: "https://olx-blue.vercel.app/"
+      image: weather,
+      title: "WEATHER APP",
+      description: "Built a weather application using html, css and javaScript fetching real-time weather data from an API. Users can input their location to receive current weather conditions and forecasts.",
+      url: "https://faizan-mati.github.io/weatherApp/"
     },
     {
       id: 4,
-      image: weather,
-      title: "WEATHER APP",
-      description: "Built a weather application using React.js, fetching real-time weather data from an API. Users can input their location to receive current weather conditions and forecasts.",
-      url: "https://faizan-mati.github.io/Weather/"
-    },
-    {
-      id: 5,
       image: quiz,
       title: "QUIZ APP",
       description: "Developed an interactive quiz application using React.js and an external quiz API. Users can take quizzes on various topics and receive real-time feedback on their performance.",
       url: "https://quiz-xi-three.vercel.app/"
     },
       {
-      id: 6,
+      id: 5,
       image: ecommerece,
       title: "E-COMMERCE",
       description: "Developed an e-commerce site using HTML, CSS, JavaScript, and Bootstrap. Features include a responsive design, product listings, shopping cart, and checkout functionality.",
       url: "https://ahmed-web-solution.github.io/e-commerce/"
     },
-      {
+     {
+      id: 6,
+      image: lms,
+      title: "LEARNING MANAGEMENT SYSTEM",
+      description: "Developed a responsive static website with HTML, CSS, and Bootstrap, including a navigation bar, hero section, services, portfolio gallery, and contact form.",
+      url: "https://faizan-mati.github.io/LMS/index.html"
+    },
+    {
       id: 7,
+      image: olx,
+      title: "OLX CLONE",
+      description: "Developed an e-commerce website using React and Firebase, featuring user authentication, profile management, product posting, and CRUD operations for users to manage their listings.",
+      url: "https://olx-blue.vercel.app/"
+    },
+      {
+      id: 8,
       image: coffee,
       title: "Coffee",
       description: "Developed a responsive static website with HTML, CSS, and Bootstrap, including a navigation bar, hero section, services, gallery, and contact form.",
@@ -74,20 +82,14 @@ export default function Project() {
     //   url: "https://faizan-mati.github.io/mining/"
     // },
  
-     {
-      id: 9,
-      image: lms,
-      title: "LEARNING MANAGEMENT SYSTEM",
-      description: "Developed a responsive static website with HTML, CSS, and Bootstrap, including a navigation bar, hero section, services, portfolio gallery, and contact form.",
-      url: "https://faizan-mati.github.io/LMS/index.html"
-    },
-     {
-      id: 10,
-      image: gradient,
-      title: "GRADIENT",
-      description: "Responsive site generating and displaying random gradients with HTML, CSS, and JavaScript.",
-      url: "https://faizan-mati.github.io/gradient/"
-    },
+    
+    //  {
+    //   id: 10,
+    //   image: gradient,
+    //   title: "GRADIENT",
+    //   description: "Responsive site generating and displaying random gradients with HTML, CSS, and JavaScript.",
+    //   url: "https://faizan-mati.github.io/gradient/"
+    // },
     // {
     //   id: 9,
     //   image: food,
