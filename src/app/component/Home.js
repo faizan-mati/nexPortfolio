@@ -40,7 +40,7 @@ export default function HomeCom() {
                 <button className="btn-custom">Hire Me</button>
               </a>
 
-              <button className="btn-custom1" onClick={downloadPdf}>C Download</button>
+              <button className="btn-custom1" onClick={downloadPdf}>CV Download</button>
 
             </div>
             <br />
